@@ -1,0 +1,139 @@
+.navbar pre{
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    margin-left: 40px;
+    height: 60px;
+}
+
+.main {
+    height: 600px;
+}
+
+.div1 {
+    display: flex;
+    height: 600px;
+}
+
+.div2 {
+    display: flex;
+    height: 600px;
+    background-color: darkgray;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white; 
+}
+
+.btn {
+    padding:9px 14px;
+    border: 2px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(227 74 56);;
+}
+
+.info {
+    background-color: black;
+    color: white;
+    padding: 7px 12px;
+}
+
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 42px;
+    color: white;
+}
+
+.para1 {
+    margin-left: 115px;
+    font-size: 30px;
+}
+.para2 {
+    margin-left: 100px;
+    color: white;
+}
+.para3 {
+    margin-left: 100px;
+}
+.para4 {
+    margin-left: 100px;
+}
+.para5 {
+    margin-left: 100px;
+}
+
+.box {
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(120, 54, 16);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul li{
+    margin: 12px 2px;
+ }
+
+ .section1 {
+     padding-bottom: 50px;
+ }
+
+ .section2{
+    padding: 73px;
+    padding-top: 10px;
+}
+
+.section2 h1{
+    font-size: 2.3rem;
+}
+
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
